@@ -40,7 +40,7 @@ const compute_array = (x) =>
     for (i = 0; i <= n; i++) {
         y_array.push(y(x))
         x_array.push(x)
-        x = x + h
+        h
     }
 }
 

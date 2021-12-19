@@ -2,7 +2,7 @@
 
 //THIS PROBLEM IS A PART OF NUMERICAL INTEGRATION
 
-
+//FAKE
 //TRAPEZOIDAL RULE
 //The things we nees to enter manually
 //the limits 'a' and 'b'
@@ -33,7 +33,7 @@ const y = (x) => {
 
 
 //initial value for series of x
-x = a
+x 
 
 
 //laying out series of values of x and y from a to b in step sizes h
