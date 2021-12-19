@@ -14,7 +14,7 @@ b = 6
 //No of intervals we require or prefer, 6 is optimal and can be used for other methods as well
 n = 6
 
-//Step size
+//Step size..
 h = (b - a) / n
 
 x_array = []
